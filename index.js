@@ -19,7 +19,6 @@ const superagent = require('superagent')
 //     }
 // })
 
-//using promise chaining
 
 //create a readfilepromise and writefilepromise
 const readFilePro = (fileName) => {
